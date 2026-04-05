@@ -10,8 +10,11 @@ building, person, car, sky, and more.
 
 ## 📸 Example Results
 
-![result1](result/idx_001.png)
-
+![result1](idx_001.png)
+![result1](idx_003.png)
+![result1](idx_120.png)
+![result1](idx_123.png)
+![result1](idx_300.png)
 ---
 
 ## 🏗️ Model Architecture
